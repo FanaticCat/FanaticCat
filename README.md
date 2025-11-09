@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Arda Kaplan</h1>
-<h3 align="center">A Passionate Web Developer from Turkey</h3>
+<h3 align="center">A Passionate Web Designer from Turkey</h3>
 
-- 💬 Ask me about **Web engineering**
+- 💬 Ask me about **Web Designer**
 
 - 📫 How to reach me **efeardakaplan0@gmail.com**
 
