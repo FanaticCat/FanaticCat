@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Efe Arda Kaplan</h1>
+<h1 align="center">Hi , I'm Efe Arda Kaplan</h1>
 <h3 align="center">A Passionate Web Designer from Turkey</h3>
 
 - 💬 Ask me about **Web Designer**
